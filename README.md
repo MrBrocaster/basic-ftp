@@ -1,3 +1,10 @@
+**WARNING**
+
+This repo contains modified version.
+
+* dist included
+* added `200 OK` buggyfill
+
 # Basic FTP
 
 [![Build Status](https://travis-ci.org/patrickjuchli/basic-ftp.svg?branch=master)](https://travis-ci.org/patrickjuchli/basic-ftp) [![dependencies](https://img.shields.io/david/patrickjuchli/basic-ftp)](https://david-dm.org/patrickjuchli/basic-ftp) [![npm version](https://img.shields.io/npm/v/basic-ftp.svg)](https://www.npmjs.com/package/basic-ftp)
